@@ -1,1 +1,7 @@
-class
+/**
+ * diff
+ */
+public class diff {
+
+    
+}
